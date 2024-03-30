@@ -1,0 +1,4 @@
+* linguist-vendored
+*.py linguist-vendored=false
+*.scm linguist-vendored=false
+*.sql linguist-vendored=false
